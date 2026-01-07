@@ -1,0 +1,454 @@
+{
+  "vehicles": [
+    {
+      "id": "1",
+      "licensePlate": "MXA1001",
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2021,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "lastService": "2025-01-01",
+      "odometer": 58000,
+      "gpsActive": true
+    },
+    {
+      "id": "2",
+      "licensePlate": "MXA1002",
+      "make": "Ford",
+      "model": "Focus",
+      "year": 2020,
+      "status": "Taller",
+      "location": {
+        "lat": 19.4276,
+        "lng": -99.1335
+      },
+      "lastService": "2025-02-10",
+      "odometer": 67000,
+      "gpsActive": false
+    },
+    {
+      "id": "3",
+      "licensePlate": "MXA1003",
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": 2019,
+      "status": "En servicio",
+      "location": {
+        "lat": 19.4286,
+        "lng": -99.1342
+      },
+      "lastService": "2024-12-15",
+      "odometer": 80000,
+      "gpsActive": true
+    },
+    {
+      "id": "4",
+      "licensePlate": "MXA1004",
+      "make": "Chevrolet",
+      "model": "Aveo",
+      "year": 2022,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.43,
+        "lng": -99.135
+      },
+      "lastService": "2025-03-20",
+      "odometer": 25000,
+      "gpsActive": true
+    },
+    {
+      "id": "5",
+      "licensePlate": "MXA1005",
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": 2021,
+      "status": "En servicio",
+      "location": {
+        "lat": 19.4311,
+        "lng": -99.1338
+      },
+      "lastService": "2025-01-28",
+      "odometer": 45000,
+      "gpsActive": true
+    },
+    {
+      "id": "6",
+      "licensePlate": "MXA1006",
+      "make": "Mazda",
+      "model": "3",
+      "year": 2020,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.4295,
+        "lng": -99.1311
+      },
+      "lastService": "2024-11-12",
+      "odometer": 60000,
+      "gpsActive": false
+    },
+    {
+      "id": "7",
+      "licensePlate": "MXA1007",
+      "make": "Kia",
+      "model": "Rio",
+      "year": 2018,
+      "status": "Taller",
+      "location": {
+        "lat": 19.4282,
+        "lng": -99.136
+      },
+      "lastService": "2025-01-10",
+      "odometer": 92000,
+      "gpsActive": true
+    },
+    {
+      "id": "8",
+      "licensePlate": "MXA1008",
+      "make": "Hyundai",
+      "model": "Tucson",
+      "year": 2022,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.433,
+        "lng": -99.13
+      },
+      "lastService": "2025-03-01",
+      "odometer": 22000,
+      "gpsActive": true
+    },
+    {
+      "id": "9",
+      "licensePlate": "MXA1009",
+      "make": "Renault",
+      "model": "Duster",
+      "year": 2021,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.4355,
+        "lng": -99.1318
+      },
+      "lastService": "2025-04-05",
+      "odometer": 31000,
+      "gpsActive": true
+    },
+    {
+      "id": "10",
+      "licensePlate": "MXA1010",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2019,
+      "status": "En servicio",
+      "location": {
+        "lat": 19.4362,
+        "lng": -99.1329
+      },
+      "lastService": "2025-03-15",
+      "odometer": 76000,
+      "gpsActive": false
+    },
+    {
+      "id": "11",
+      "licensePlate": "MXA1011",
+      "make": "Toyota",
+      "model": "Yaris",
+      "year": 2017,
+      "status": "Taller",
+      "location": {
+        "lat": 19.437,
+        "lng": -99.1333
+      },
+      "lastService": "2024-10-05",
+      "odometer": 102000,
+      "gpsActive": false
+    },
+    {
+      "id": "12",
+      "licensePlate": "MXA1012",
+      "make": "Ford",
+      "model": "Escape",
+      "year": 2023,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.4381,
+        "lng": -99.1344
+      },
+      "lastService": "2025-05-01",
+      "odometer": 9000,
+      "gpsActive": true
+    },
+    {
+      "id": "13",
+      "licensePlate": "MXA1013",
+      "make": "Nissan",
+      "model": "Versa",
+      "year": 2020,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.4392,
+        "lng": -99.1355
+      },
+      "lastService": "2025-03-22",
+      "odometer": 50000,
+      "gpsActive": true
+    },
+    {
+      "id": "14",
+      "licensePlate": "MXA1014",
+      "make": "Chevrolet",
+      "model": "Spark",
+      "year": 2019,
+      "status": "Taller",
+      "location": {
+        "lat": 19.44,
+        "lng": -99.1361
+      },
+      "lastService": "2024-11-30",
+      "odometer": 87000,
+      "gpsActive": false
+    },
+    {
+      "id": "15",
+      "licensePlate": "MXA1015",
+      "make": "Volkswagen",
+      "model": "Polo",
+      "year": 2021,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.441,
+        "lng": -99.1367
+      },
+      "lastService": "2025-04-12",
+      "odometer": 42000,
+      "gpsActive": true
+    },
+    {
+      "id": "16",
+      "licensePlate": "MXA1016",
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": 2022,
+      "status": "En servicio",
+      "location": {
+        "lat": 19.4421,
+        "lng": -99.137
+      },
+      "lastService": "2025-04-01",
+      "odometer": 19000,
+      "gpsActive": true
+    },
+    {
+      "id": "17",
+      "licensePlate": "MXA1017",
+      "make": "Kia",
+      "model": "Forte",
+      "year": 2021,
+      "status": "Taller",
+      "location": {
+        "lat": 19.443,
+        "lng": -99.138
+      },
+      "lastService": "2025-02-15",
+      "odometer": 39000,
+      "gpsActive": true
+    },
+    {
+      "id": "18",
+      "licensePlate": "MXA1018",
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": 2020,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.444,
+        "lng": -99.139
+      },
+      "lastService": "2025-01-22",
+      "odometer": 60000,
+      "gpsActive": false
+    },
+    {
+      "id": "19",
+      "licensePlate": "MXA1019",
+      "make": "Renault",
+      "model": "Logan",
+      "year": 2018,
+      "status": "En servicio",
+      "location": {
+        "lat": 19.445,
+        "lng": -99.14
+      },
+      "lastService": "2025-03-03",
+      "odometer": 83000,
+      "gpsActive": true
+    },
+    {
+      "id": "20",
+      "licensePlate": "MXA1020",
+      "make": "Honda",
+      "model": "Fit",
+      "year": 2017,
+      "status": "Taller",
+      "location": {
+        "lat": 19.446,
+        "lng": -99.141
+      },
+      "lastService": "2024-12-01",
+      "odometer": 96000,
+      "gpsActive": false
+    },
+    {
+      "id": "21",
+      "licensePlate": "MXA1021",
+      "make": "Toyota",
+      "model": "RAV4",
+      "year": 2023,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.447,
+        "lng": -99.142
+      },
+      "lastService": "2025-05-10",
+      "odometer": 8000,
+      "gpsActive": true
+    },
+    {
+      "id": "22",
+      "licensePlate": "MXA1022",
+      "make": "Ford",
+      "model": "EcoSport",
+      "year": 2022,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.448,
+        "lng": -99.143
+      },
+      "lastService": "2025-03-11",
+      "odometer": 23000,
+      "gpsActive": true
+    },
+    {
+      "id": "23",
+      "licensePlate": "MXA1023",
+      "make": "Nissan",
+      "model": "Kicks",
+      "year": 2021,
+      "status": "En servicio",
+      "location": {
+        "lat": 19.449,
+        "lng": -99.144
+      },
+      "lastService": "2025-02-05",
+      "odometer": 35000,
+      "gpsActive": true
+    },
+    {
+      "id": "24",
+      "licensePlate": "MXA1024",
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "year": 2020,
+      "status": "Taller",
+      "location": {
+        "lat": 19.45,
+        "lng": -99.145
+      },
+      "lastService": "2025-01-10",
+      "odometer": 58000,
+      "gpsActive": false
+    },
+    {
+      "id": "25",
+      "licensePlate": "MXA1025",
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": 2019,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.451,
+        "lng": -99.146
+      },
+      "lastService": "2025-03-17",
+      "odometer": 72000,
+      "gpsActive": true
+    },
+    {
+      "id": "26",
+      "licensePlate": "MXA1026",
+      "make": "Mazda",
+      "model": "2",
+      "year": 2018,
+      "status": "Taller",
+      "location": {
+        "lat": 19.452,
+        "lng": -99.147
+      },
+      "lastService": "2025-02-14",
+      "odometer": 88000,
+      "gpsActive": false
+    },
+    {
+      "id": "27",
+      "licensePlate": "MXA1027",
+      "make": "Kia",
+      "model": "Soul",
+      "year": 2020,
+      "status": "En servicio",
+      "location": {
+        "lat": 19.453,
+        "lng": -99.148
+      },
+      "lastService": "2025-04-01",
+      "odometer": 52000,
+      "gpsActive": true
+    },
+    {
+      "id": "28",
+      "licensePlate": "MXA1028",
+      "make": "Hyundai",
+      "model": "Creta",
+      "year": 2021,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.454,
+        "lng": -99.149
+      },
+      "lastService": "2025-03-09",
+      "odometer": 40000,
+      "gpsActive": true
+    },
+    {
+      "id": "29",
+      "licensePlate": "MXA1029",
+      "make": "Renault",
+      "model": "Stepway",
+      "year": 2019,
+      "status": "Taller",
+      "location": {
+        "lat": 19.455,
+        "lng": -99.15
+      },
+      "lastService": "2025-01-01",
+      "odometer": 75000,
+      "gpsActive": false
+    },
+    {
+      "id": "30",
+      "licensePlate": "MXA1030",
+      "make": "Honda",
+      "model": "HR-V",
+      "year": 2022,
+      "status": "Disponible",
+      "location": {
+        "lat": 19.456,
+        "lng": -99.151
+      },
+      "lastService": "2025-04-15",
+      "odometer": 18000,
+      "gpsActive": true
+    }
+  ]
+}
